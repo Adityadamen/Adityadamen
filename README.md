@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 
 ### My Socials
 
-[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png">](https://www.linkedin.com/in/akshay-kadam-91543614a/)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png">](https://github.com/Adityadamen)                                                                                 [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/youtube.png">](https://www.youtube.com/channel/UCH0juFMkrE4ZcXG-4aItcnw)                                [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png">](https://www.instagram.com/damenaditya/)
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png">](https://www.linkedin.com/in/s-aditya-99a98a192/)                                        [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png">](https://github.com/Adityadamen)                                                                                 [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/youtube.png">](https://www.youtube.com/channel/UCH0juFMkrE4ZcXG-4aItcnw)                                [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png">](https://www.instagram.com/damenaditya/)
 
