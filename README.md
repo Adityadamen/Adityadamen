@@ -4,9 +4,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a Web Dev Project
-- 🌱 I’m currently learning more about Next JS
-- 👯 I’m looking to collaborate with other Full Stack Developers
+- ⏳ I am constantly learning and keep myself updated with the latest technologies in AI.
+- 🌱 I’m currently learning more about Natural language processing and Data Structure
+- 🤔 My interests are in Data Science, Web Development, Data Structure and in Embedded Systems.
+- 👯 I’m looking to collaborate with other full stack developer
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play Cricket 🏏
 
